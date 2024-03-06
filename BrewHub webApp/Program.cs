@@ -5,6 +5,11 @@ builder.Services.AddRazorPages();
 
 var app = builder.Build();
 
+public void ConfigureServices(IServiceCollection services)
+{
+    services.AddHttpClient<webservice>();
+}
+
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
 {
