@@ -1,39 +1,43 @@
 const pool = require("../../db");
 const queries = require("./queries");
 
-const getCars = (req, res) => {
-    pool.query(queries.getCars, (error, results) => {
+/*
+    all of this needs adapted to the BrewHub DB
+*/
+
+const getBreweries = (req, res) => {
+    pool.query(queries.getBreweries, (error, results) => {
         if(error) throw error;
         res.status(200).json(results.rows);
     });
 };
 
-const getCarById = (req, res) => {
+const getBreweryById = (req, res) => {
     const id = parseInt(req.params.id);
-    pool.query(queries.getCarById, [id], (error, results) => {
+    pool.query(queries.getBrewery, [id], (error, results) => {
         if(error) throw error;
         res.status(200).json(results.rows);
     });
 };
 
-const addCar = (req, res) => {
-    const { make, model, price } = req.body;
+const addBrewery = (req, res) => {
+    const { name, address, city, state, established, website, price_level } = req.body;
 
-    pool.query(queries.checkModelExists, [model], (error, results) => {
+    pool.query(queries.checkNameExists, [name], (error, results) => {
         if(results.rows.length) {
             res.send("Model already exists in the database.");
             return;
         }
 
-        pool.query(queries.addCar, [make, model, price], (error, results) => {
+        pool.query(queries.addBrewery, [name, address, city, state, established, website, price_level], (error, results) => {
             if(error) throw error;
-            res.status(201).send("Car created successfully.");
+            res.status(201).send("Brewery created successfully.");
         });
     });
 };
 
-const updateCar = (req, res) => {
-    const { id, make, model, price } = req.body;
+const updateBrewery = (req, res) => {
+    const { id, name, address, city, state, established, website, price_level } = req.body;
 
     pool.query(queries.checkIdExists, [id], (error, results) => {
         if(!results.rows.length) {
@@ -41,14 +45,14 @@ const updateCar = (req, res) => {
             return;
         }
 
-        pool.query(queries.updateCar, [id, make, model, price], (error, results) => {
+        pool.query(queries.updateBrewery, [name, address, city, state, established, website, price_level], (error, results) => {
             if(error) throw error;
-            res.status(201).send("Car updated successfully.");
+            res.status(201).send("Brewery updated successfully.");
         });
     });
 };
 
-const deleteCar = (req, res) => {
+const deleteBrewery = (req, res) => {
     const id = parseInt(req.body.id);
 
     pool.query(queries.checkIdExists, [id], (error, results) => {
@@ -57,17 +61,17 @@ const deleteCar = (req, res) => {
             return;
         }
 
-        pool.query(queries.deleteCar, [id], (error, results) => {
+        pool.query(queries.deleteBrewery, [id], (error, results) => {
             if(error) throw error;
-            res.status(201).send("Car deleted successfully.");
+            res.status(201).send("Brewery deleted successfully.");
         });
     });
 };
 
 module.exports = {
-    getCars,
-    getCarById,
-    addCar,
-    updateCar,
-    deleteCar
+    getBreweries,
+    getBreweryById,
+    addBrewery,
+    updateBrewery,
+    deleteBrewery
 };

@@ -1,0 +1,31 @@
+Z:\Documents\School\CMPS 360\BreweryWebApp\BrewHub webApp\bin\Debug\net8.0\appsettings.Development.json
+Z:\Documents\School\CMPS 360\BreweryWebApp\BrewHub webApp\bin\Debug\net8.0\appsettings.json
+Z:\Documents\School\CMPS 360\BreweryWebApp\BrewHub webApp\bin\Debug\net8.0\BrewHub webApp.staticwebassets.runtime.json
+Z:\Documents\School\CMPS 360\BreweryWebApp\BrewHub webApp\bin\Debug\net8.0\BrewHub webApp.exe
+Z:\Documents\School\CMPS 360\BreweryWebApp\BrewHub webApp\bin\Debug\net8.0\BrewHub webApp.deps.json
+Z:\Documents\School\CMPS 360\BreweryWebApp\BrewHub webApp\bin\Debug\net8.0\BrewHub webApp.runtimeconfig.json
+Z:\Documents\School\CMPS 360\BreweryWebApp\BrewHub webApp\bin\Debug\net8.0\BrewHub webApp.dll
+Z:\Documents\School\CMPS 360\BreweryWebApp\BrewHub webApp\bin\Debug\net8.0\BrewHub webApp.pdb
+Z:\Documents\School\CMPS 360\BreweryWebApp\BrewHub webApp\obj\Debug\net8.0\BrewHub webApp.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Documents\School\CMPS 360\BreweryWebApp\BrewHub webApp\obj\Debug\net8.0\BrewHub webApp.AssemblyInfoInputs.cache
+Z:\Documents\School\CMPS 360\BreweryWebApp\BrewHub webApp\obj\Debug\net8.0\BrewHub webApp.AssemblyInfo.cs
+Z:\Documents\School\CMPS 360\BreweryWebApp\BrewHub webApp\obj\Debug\net8.0\BrewHub webApp.csproj.CoreCompileInputs.cache
+Z:\Documents\School\CMPS 360\BreweryWebApp\BrewHub webApp\obj\Debug\net8.0\BrewHub webApp.MvcApplicationPartsAssemblyInfo.cache
+Z:\Documents\School\CMPS 360\BreweryWebApp\BrewHub webApp\obj\Debug\net8.0\BrewHub webApp.RazorAssemblyInfo.cache
+Z:\Documents\School\CMPS 360\BreweryWebApp\BrewHub webApp\obj\Debug\net8.0\BrewHub webApp.RazorAssemblyInfo.cs
+Z:\Documents\School\CMPS 360\BreweryWebApp\BrewHub webApp\obj\Debug\net8.0\BrewHub webApp.sourcelink.json
+Z:\Documents\School\CMPS 360\BreweryWebApp\BrewHub webApp\obj\Debug\net8.0\staticwebassets.build.json
+Z:\Documents\School\CMPS 360\BreweryWebApp\BrewHub webApp\obj\Debug\net8.0\staticwebassets.development.json
+Z:\Documents\School\CMPS 360\BreweryWebApp\BrewHub webApp\obj\Debug\net8.0\staticwebassets\msbuild.BrewHub webApp.Microsoft.AspNetCore.StaticWebAssets.props
+Z:\Documents\School\CMPS 360\BreweryWebApp\BrewHub webApp\obj\Debug\net8.0\staticwebassets\msbuild.build.BrewHub webApp.props
+Z:\Documents\School\CMPS 360\BreweryWebApp\BrewHub webApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BrewHub webApp.props
+Z:\Documents\School\CMPS 360\BreweryWebApp\BrewHub webApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BrewHub webApp.props
+Z:\Documents\School\CMPS 360\BreweryWebApp\BrewHub webApp\obj\Debug\net8.0\staticwebassets.pack.json
+Z:\Documents\School\CMPS 360\BreweryWebApp\BrewHub webApp\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+Z:\Documents\School\CMPS 360\BreweryWebApp\BrewHub webApp\obj\Debug\net8.0\scopedcss\bundle\BrewHub webApp.styles.css
+Z:\Documents\School\CMPS 360\BreweryWebApp\BrewHub webApp\obj\Debug\net8.0\scopedcss\projectbundle\BrewHub webApp.bundle.scp.css
+Z:\Documents\School\CMPS 360\BreweryWebApp\BrewHub webApp\obj\Debug\net8.0\BrewHub webApp.dll
+Z:\Documents\School\CMPS 360\BreweryWebApp\BrewHub webApp\obj\Debug\net8.0\refint\BrewHub webApp.dll
+Z:\Documents\School\CMPS 360\BreweryWebApp\BrewHub webApp\obj\Debug\net8.0\BrewHub webApp.pdb
+Z:\Documents\School\CMPS 360\BreweryWebApp\BrewHub webApp\obj\Debug\net8.0\BrewHub webApp.genruntimeconfig.cache
+Z:\Documents\School\CMPS 360\BreweryWebApp\BrewHub webApp\obj\Debug\net8.0\ref\BrewHub webApp.dll
