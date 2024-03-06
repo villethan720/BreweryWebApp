@@ -3,7 +3,7 @@ const Pool = require("pg").Pool;
 const pool = new Pool({
     user: "cmps360",
     password: "KitGGhABnLwq47spjYHC3w8ZTk43qneu",
-    host: "dpg-cnjqbrljm4es73ajpqp0-a",
+    host: "dpg-cnjqbrljm4es73ajpqp0-a.oregon-postgres.render.com",
     database: "brewerydb",
     port: 5432,
     ssl: true
