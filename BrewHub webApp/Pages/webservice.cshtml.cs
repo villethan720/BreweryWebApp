@@ -14,6 +14,11 @@ public class webserviceModel : PageModel
         _httpClient = httpClient;
     }
 
+    public void ConfigureServices(IServiceCollection services)
+{
+    services.AddHttpClient<webserviceModel>();
+}
+
     public Dictionary<string, string> webservice { get; set;}
 
     public async Task OnGetAsync()
