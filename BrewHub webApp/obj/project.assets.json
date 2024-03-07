@@ -2719,25 +2719,31 @@
     ]
   },
   "packageFolders": {
-    "/Users/zkish/.nuget/packages/": {}
+    "C:\\Users\\Eric\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/BrewHub webApp.csproj",
+      "projectUniqueName": "Z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\BrewHub webApp.csproj",
       "projectName": "BrewHub webApp",
-      "projectPath": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/BrewHub webApp.csproj",
-      "packagesPath": "/Users/zkish/.nuget/packages/",
-      "outputPath": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/obj/",
+      "projectPath": "Z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\BrewHub webApp.csproj",
+      "packagesPath": "C:\\Users\\Eric\\.nuget\\packages\\",
+      "outputPath": "Z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/Users/zkish/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Eric\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "https://api.nuget.org/v3/index.json": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
       },
       "frameworks": {
         "net8.0": {
@@ -2779,20 +2785,8 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1903",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'Newtonsoft.Json' 9.0.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-5crp-9r3c-p9vr",
-      "libraryId": "Newtonsoft.Json",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    }
-  ]
+  }
 }

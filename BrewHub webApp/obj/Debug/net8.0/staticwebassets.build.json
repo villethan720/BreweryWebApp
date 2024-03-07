@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "PjO4LkYfagK3s90PL2TI1XZgzK/Oqdtlr8LtIh+ULQ4=",
+  "Hash": "6GXtioSX71UzPSNZQ5VwHodm12ycsIjy5yK5ku43ObU=",
   "Source": "BrewHub webApp",
   "BasePath": "_content/BrewHub webApp",
   "Mode": "Default",
@@ -8,19 +8,19 @@
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "BrewHub webApp/wwwroot",
+      "Name": "BrewHub webApp\\wwwroot",
       "Source": "BrewHub webApp",
-      "ContentRoot": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/",
+      "ContentRoot": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\",
       "BasePath": "_content/BrewHub webApp",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/obj/Debug/net8.0/scopedcss/bundle/BrewHub webApp.styles.css",
+      "Identity": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BrewHub webApp.styles.css",
       "SourceId": "BrewHub webApp",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/obj/Debug/net8.0/scopedcss/bundle/",
+      "ContentRoot": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/BrewHub webApp",
       "RelativePath": "BrewHub webApp.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/obj/Debug/net8.0/scopedcss/bundle/BrewHub webApp.styles.css"
+      "OriginalItemSpec": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BrewHub webApp.styles.css"
     },
     {
-      "Identity": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/obj/Debug/net8.0/scopedcss/projectbundle/BrewHub webApp.bundle.scp.css",
+      "Identity": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BrewHub webApp.bundle.scp.css",
       "SourceId": "BrewHub webApp",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/obj/Debug/net8.0/scopedcss/projectbundle/",
+      "ContentRoot": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/BrewHub webApp",
       "RelativePath": "BrewHub webApp.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/obj/Debug/net8.0/scopedcss/projectbundle/BrewHub webApp.bundle.scp.css"
+      "OriginalItemSpec": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BrewHub webApp.bundle.scp.css"
     },
     {
-      "Identity": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/css/site.css",
+      "Identity": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\css\\site.css",
       "SourceId": "BrewHub webApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/",
+      "ContentRoot": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\",
       "BasePath": "_content/BrewHub webApp",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -71,13 +71,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/site.css"
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/favicon.ico",
+      "Identity": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\favicon.ico",
       "SourceId": "BrewHub webApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/",
+      "ContentRoot": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\",
       "BasePath": "_content/BrewHub webApp",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -90,13 +90,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/favicon.ico"
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/images/AshaM.jpeg",
+      "Identity": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\images\\AshaM.jpeg",
       "SourceId": "BrewHub webApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/",
+      "ContentRoot": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\",
       "BasePath": "_content/BrewHub webApp",
       "RelativePath": "images/AshaM.jpeg",
       "AssetKind": "All",
@@ -109,13 +109,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/AshaM.jpeg"
+      "OriginalItemSpec": "wwwroot\\images\\AshaM.jpeg"
     },
     {
-      "Identity": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/images/BrewHub.png",
+      "Identity": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\images\\BrewHub.png",
       "SourceId": "BrewHub webApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/",
+      "ContentRoot": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\",
       "BasePath": "_content/BrewHub webApp",
       "RelativePath": "images/BrewHub.png",
       "AssetKind": "All",
@@ -128,13 +128,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/BrewHub.png"
+      "OriginalItemSpec": "wwwroot\\images\\BrewHub.png"
     },
     {
-      "Identity": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/images/CollinM.jpeg",
+      "Identity": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\images\\CollinM.jpeg",
       "SourceId": "BrewHub webApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/",
+      "ContentRoot": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\",
       "BasePath": "_content/BrewHub webApp",
       "RelativePath": "images/CollinM.jpeg",
       "AssetKind": "All",
@@ -147,13 +147,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/CollinM.jpeg"
+      "OriginalItemSpec": "wwwroot\\images\\CollinM.jpeg"
     },
     {
-      "Identity": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/images/EricP.jpg",
+      "Identity": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\images\\EricP.jpg",
       "SourceId": "BrewHub webApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/",
+      "ContentRoot": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\",
       "BasePath": "_content/BrewHub webApp",
       "RelativePath": "images/EricP.jpg",
       "AssetKind": "All",
@@ -166,13 +166,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/EricP.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\EricP.jpg"
     },
     {
-      "Identity": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/images/EthanV.jpeg",
+      "Identity": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\images\\EthanV.jpeg",
       "SourceId": "BrewHub webApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/",
+      "ContentRoot": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\",
       "BasePath": "_content/BrewHub webApp",
       "RelativePath": "images/EthanV.jpeg",
       "AssetKind": "All",
@@ -185,13 +185,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/EthanV.jpeg"
+      "OriginalItemSpec": "wwwroot\\images\\EthanV.jpeg"
     },
     {
-      "Identity": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/images/GrandCanyon.jpeg",
+      "Identity": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\images\\GrandCanyon.jpeg",
       "SourceId": "BrewHub webApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/",
+      "ContentRoot": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\",
       "BasePath": "_content/BrewHub webApp",
       "RelativePath": "images/GrandCanyon.jpeg",
       "AssetKind": "All",
@@ -204,13 +204,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/GrandCanyon.jpeg"
+      "OriginalItemSpec": "wwwroot\\images\\GrandCanyon.jpeg"
     },
     {
-      "Identity": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/images/JoelF.jpeg",
+      "Identity": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\images\\JoelF.jpeg",
       "SourceId": "BrewHub webApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/",
+      "ContentRoot": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\",
       "BasePath": "_content/BrewHub webApp",
       "RelativePath": "images/JoelF.jpeg",
       "AssetKind": "All",
@@ -223,13 +223,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/JoelF.jpeg"
+      "OriginalItemSpec": "wwwroot\\images\\JoelF.jpeg"
     },
     {
-      "Identity": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/images/NickS.png",
+      "Identity": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\images\\NickS.png",
       "SourceId": "BrewHub webApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/",
+      "ContentRoot": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\",
       "BasePath": "_content/BrewHub webApp",
       "RelativePath": "images/NickS.png",
       "AssetKind": "All",
@@ -242,13 +242,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/NickS.png"
+      "OriginalItemSpec": "wwwroot\\images\\NickS.png"
     },
     {
-      "Identity": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/images/RyanK.jpeg",
+      "Identity": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\images\\RyanK.jpeg",
       "SourceId": "BrewHub webApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/",
+      "ContentRoot": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\",
       "BasePath": "_content/BrewHub webApp",
       "RelativePath": "images/RyanK.jpeg",
       "AssetKind": "All",
@@ -261,13 +261,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/RyanK.jpeg"
+      "OriginalItemSpec": "wwwroot\\images\\RyanK.jpeg"
     },
     {
-      "Identity": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/images/ZachK.jpeg",
+      "Identity": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\images\\ZachK.jpeg",
       "SourceId": "BrewHub webApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/",
+      "ContentRoot": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\",
       "BasePath": "_content/BrewHub webApp",
       "RelativePath": "images/ZachK.jpeg",
       "AssetKind": "All",
@@ -280,13 +280,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/ZachK.jpeg"
+      "OriginalItemSpec": "wwwroot\\images\\ZachK.jpeg"
     },
     {
-      "Identity": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/js/site.js",
+      "Identity": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\js\\site.js",
       "SourceId": "BrewHub webApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/",
+      "ContentRoot": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\",
       "BasePath": "_content/BrewHub webApp",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -299,13 +299,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/js/site.js"
+      "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "Identity": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "BrewHub webApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/",
+      "ContentRoot": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\",
       "BasePath": "_content/BrewHub webApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -318,13 +318,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "Identity": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "BrewHub webApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/",
+      "ContentRoot": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\",
       "BasePath": "_content/BrewHub webApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -337,13 +337,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "Identity": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "BrewHub webApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/",
+      "ContentRoot": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\",
       "BasePath": "_content/BrewHub webApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -356,13 +356,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "Identity": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "BrewHub webApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/",
+      "ContentRoot": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\",
       "BasePath": "_content/BrewHub webApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -375,13 +375,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "Identity": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "BrewHub webApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/",
+      "ContentRoot": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\",
       "BasePath": "_content/BrewHub webApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -394,13 +394,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "Identity": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "BrewHub webApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/",
+      "ContentRoot": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\",
       "BasePath": "_content/BrewHub webApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -413,13 +413,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "Identity": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "BrewHub webApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/",
+      "ContentRoot": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\",
       "BasePath": "_content/BrewHub webApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -432,13 +432,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "Identity": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "BrewHub webApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/",
+      "ContentRoot": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\",
       "BasePath": "_content/BrewHub webApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -451,13 +451,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "Identity": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "BrewHub webApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/",
+      "ContentRoot": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\",
       "BasePath": "_content/BrewHub webApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -470,13 +470,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "Identity": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "BrewHub webApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/",
+      "ContentRoot": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\",
       "BasePath": "_content/BrewHub webApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -489,13 +489,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "Identity": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "BrewHub webApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/",
+      "ContentRoot": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\",
       "BasePath": "_content/BrewHub webApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -508,13 +508,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "Identity": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "BrewHub webApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/",
+      "ContentRoot": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\",
       "BasePath": "_content/BrewHub webApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -527,13 +527,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "Identity": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "BrewHub webApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/",
+      "ContentRoot": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\",
       "BasePath": "_content/BrewHub webApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -546,13 +546,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "Identity": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "BrewHub webApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/",
+      "ContentRoot": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\",
       "BasePath": "_content/BrewHub webApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -565,13 +565,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "Identity": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "BrewHub webApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/",
+      "ContentRoot": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\",
       "BasePath": "_content/BrewHub webApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -584,13 +584,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "Identity": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "BrewHub webApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/",
+      "ContentRoot": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\",
       "BasePath": "_content/BrewHub webApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -603,13 +603,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "Identity": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "BrewHub webApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/",
+      "ContentRoot": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\",
       "BasePath": "_content/BrewHub webApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -622,13 +622,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "Identity": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "BrewHub webApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/",
+      "ContentRoot": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\",
       "BasePath": "_content/BrewHub webApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -641,13 +641,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "Identity": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "BrewHub webApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/",
+      "ContentRoot": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\",
       "BasePath": "_content/BrewHub webApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -660,13 +660,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "Identity": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "BrewHub webApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/",
+      "ContentRoot": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\",
       "BasePath": "_content/BrewHub webApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -679,13 +679,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "Identity": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "BrewHub webApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/",
+      "ContentRoot": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\",
       "BasePath": "_content/BrewHub webApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -698,13 +698,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "Identity": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "BrewHub webApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/",
+      "ContentRoot": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\",
       "BasePath": "_content/BrewHub webApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -717,13 +717,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "Identity": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "BrewHub webApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/",
+      "ContentRoot": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\",
       "BasePath": "_content/BrewHub webApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -736,13 +736,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "Identity": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "BrewHub webApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/",
+      "ContentRoot": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\",
       "BasePath": "_content/BrewHub webApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -755,13 +755,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "Identity": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "BrewHub webApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/",
+      "ContentRoot": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\",
       "BasePath": "_content/BrewHub webApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -774,13 +774,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "Identity": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "BrewHub webApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/",
+      "ContentRoot": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\",
       "BasePath": "_content/BrewHub webApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -793,13 +793,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "Identity": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "BrewHub webApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/",
+      "ContentRoot": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\",
       "BasePath": "_content/BrewHub webApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -812,13 +812,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "Identity": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "BrewHub webApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/",
+      "ContentRoot": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\",
       "BasePath": "_content/BrewHub webApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -831,13 +831,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "Identity": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "BrewHub webApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/",
+      "ContentRoot": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\",
       "BasePath": "_content/BrewHub webApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -850,13 +850,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "Identity": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "BrewHub webApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/",
+      "ContentRoot": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\",
       "BasePath": "_content/BrewHub webApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -869,13 +869,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "Identity": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "BrewHub webApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/",
+      "ContentRoot": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\",
       "BasePath": "_content/BrewHub webApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -888,13 +888,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "Identity": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "BrewHub webApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/",
+      "ContentRoot": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\",
       "BasePath": "_content/BrewHub webApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -907,13 +907,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "Identity": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "BrewHub webApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/",
+      "ContentRoot": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\",
       "BasePath": "_content/BrewHub webApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -926,13 +926,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "Identity": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "BrewHub webApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/",
+      "ContentRoot": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\",
       "BasePath": "_content/BrewHub webApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -945,13 +945,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "Identity": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "BrewHub webApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/",
+      "ContentRoot": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\",
       "BasePath": "_content/BrewHub webApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -964,13 +964,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "Identity": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "BrewHub webApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/",
+      "ContentRoot": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\",
       "BasePath": "_content/BrewHub webApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -983,13 +983,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "Identity": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "BrewHub webApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/",
+      "ContentRoot": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\",
       "BasePath": "_content/BrewHub webApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1002,13 +1002,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "Identity": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "BrewHub webApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/",
+      "ContentRoot": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\",
       "BasePath": "_content/BrewHub webApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1021,13 +1021,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "Identity": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "BrewHub webApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/",
+      "ContentRoot": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\",
       "BasePath": "_content/BrewHub webApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1040,13 +1040,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "Identity": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "BrewHub webApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/",
+      "ContentRoot": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\",
       "BasePath": "_content/BrewHub webApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1059,13 +1059,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "Identity": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "BrewHub webApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/",
+      "ContentRoot": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\",
       "BasePath": "_content/BrewHub webApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1078,13 +1078,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "Identity": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "BrewHub webApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/",
+      "ContentRoot": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\",
       "BasePath": "_content/BrewHub webApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1097,13 +1097,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "Identity": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "BrewHub webApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/",
+      "ContentRoot": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\",
       "BasePath": "_content/BrewHub webApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1116,13 +1116,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "Identity": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "BrewHub webApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/",
+      "ContentRoot": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\",
       "BasePath": "_content/BrewHub webApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1135,13 +1135,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/lib/bootstrap/LICENSE",
+      "Identity": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "BrewHub webApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/",
+      "ContentRoot": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\",
       "BasePath": "_content/BrewHub webApp",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1154,13 +1154,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/LICENSE"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "Identity": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "BrewHub webApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/",
+      "ContentRoot": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\",
       "BasePath": "_content/BrewHub webApp",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1173,13 +1173,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "Identity": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "BrewHub webApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/",
+      "ContentRoot": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\",
       "BasePath": "_content/BrewHub webApp",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1192,13 +1192,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "Identity": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "BrewHub webApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/",
+      "ContentRoot": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\",
       "BasePath": "_content/BrewHub webApp",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1211,13 +1211,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "Identity": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "BrewHub webApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/",
+      "ContentRoot": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\",
       "BasePath": "_content/BrewHub webApp",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1230,13 +1230,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "Identity": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "BrewHub webApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/",
+      "ContentRoot": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\",
       "BasePath": "_content/BrewHub webApp",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1249,13 +1249,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.min.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "Identity": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "BrewHub webApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/",
+      "ContentRoot": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\",
       "BasePath": "_content/BrewHub webApp",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1268,13 +1268,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "Identity": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "BrewHub webApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/",
+      "ContentRoot": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\",
       "BasePath": "_content/BrewHub webApp",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1287,13 +1287,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.min.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/lib/jquery-validation/LICENSE.md",
+      "Identity": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "BrewHub webApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/",
+      "ContentRoot": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\",
       "BasePath": "_content/BrewHub webApp",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1306,13 +1306,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery-validation/LICENSE.md"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/lib/jquery/dist/jquery.js",
+      "Identity": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "BrewHub webApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/",
+      "ContentRoot": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\",
       "BasePath": "_content/BrewHub webApp",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1325,13 +1325,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/lib/jquery/dist/jquery.min.js",
+      "Identity": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "BrewHub webApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/",
+      "ContentRoot": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\",
       "BasePath": "_content/BrewHub webApp",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1344,13 +1344,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/lib/jquery/dist/jquery.min.map",
+      "Identity": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "BrewHub webApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/",
+      "ContentRoot": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\",
       "BasePath": "_content/BrewHub webApp",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1363,13 +1363,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.map"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/lib/jquery/LICENSE.txt",
+      "Identity": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "BrewHub webApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/",
+      "ContentRoot": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\",
       "BasePath": "_content/BrewHub webApp",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1382,7 +1382,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery/LICENSE.txt"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     }
   ]
 }
