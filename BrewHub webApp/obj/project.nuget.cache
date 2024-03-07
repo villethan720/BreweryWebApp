@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s6FhmKFRtcWRqIG704potz5M4BGNboDeXEpWd+ztv6ujWCVkFyrFb2CGcEaQip/ErWfMEEbtdi9+3JYOvGcbGQ==",
+  "dgSpecHash": "EKVnX57VWqsNXC3M7dTd7vnOIi7p3tfh91ssvRBC/aY98q+v3lhYiPNVbalSu8w5tWIzTXAwPeGfGwHbft5MWA==",
   "success": true,
-  "projectFilePath": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\BrewHub webApp.csproj",
+  "projectFilePath": "Z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\BrewHub webApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Eric\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
     "C:\\Users\\Eric\\.nuget\\packages\\microsoft.netcore.platforms\\1.0.1\\microsoft.netcore.platforms.1.0.1.nupkg.sha512",

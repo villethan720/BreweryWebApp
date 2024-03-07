@@ -9,51 +9,51 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BrewHub_webApp
 build_property.RootNamespace = BrewHub_webApp
-build_property.ProjectDir = z:\Documents\School\CMPS 360\BreweryWebApp\BrewHub webApp\
+build_property.ProjectDir = Z:\Documents\School\CMPS 360\BreweryWebApp\BrewHub webApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = z:\Documents\School\CMPS 360\BreweryWebApp\BrewHub webApp
+build_property.MSBuildProjectDirectory = Z:\Documents\School\CMPS 360\BreweryWebApp\BrewHub webApp
 build_property._RazorSourceGeneratorDebug = 
 
-[z:/Documents/School/CMPS 360/BreweryWebApp/BrewHub webApp/Pages/AboutUs.cshtml]
+[Z:/Documents/School/CMPS 360/BreweryWebApp/BrewHub webApp/Pages/AboutUs.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJvdXRVcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[z:/Documents/School/CMPS 360/BreweryWebApp/BrewHub webApp/Pages/Error.cshtml]
+[Z:/Documents/School/CMPS 360/BreweryWebApp/BrewHub webApp/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[z:/Documents/School/CMPS 360/BreweryWebApp/BrewHub webApp/Pages/Index.cshtml]
+[Z:/Documents/School/CMPS 360/BreweryWebApp/BrewHub webApp/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[z:/Documents/School/CMPS 360/BreweryWebApp/BrewHub webApp/Pages/OurTeam.cshtml]
+[Z:/Documents/School/CMPS 360/BreweryWebApp/BrewHub webApp/Pages/OurTeam.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3VyVGVhbS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[z:/Documents/School/CMPS 360/BreweryWebApp/BrewHub webApp/Pages/Privacy.cshtml]
+[Z:/Documents/School/CMPS 360/BreweryWebApp/BrewHub webApp/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[z:/Documents/School/CMPS 360/BreweryWebApp/BrewHub webApp/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[Z:/Documents/School/CMPS 360/BreweryWebApp/BrewHub webApp/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[z:/Documents/School/CMPS 360/BreweryWebApp/BrewHub webApp/Pages/webservice.cshtml]
+[Z:/Documents/School/CMPS 360/BreweryWebApp/BrewHub webApp/Pages/webservice.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcd2Vic2VydmljZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[z:/Documents/School/CMPS 360/BreweryWebApp/BrewHub webApp/Pages/_ViewImports.cshtml]
+[Z:/Documents/School/CMPS 360/BreweryWebApp/BrewHub webApp/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[z:/Documents/School/CMPS 360/BreweryWebApp/BrewHub webApp/Pages/_ViewStart.cshtml]
+[Z:/Documents/School/CMPS 360/BreweryWebApp/BrewHub webApp/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[z:/Documents/School/CMPS 360/BreweryWebApp/BrewHub webApp/Pages/Shared/_Layout.cshtml]
+[Z:/Documents/School/CMPS 360/BreweryWebApp/BrewHub webApp/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-3b685okns0

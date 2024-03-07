@@ -1,5 +1,9 @@
 @page
 @model webserviceModel
+@{
+    ViewData["Title"] = "Breweries";
+}
+
 @using System.Net.Http
 @using Microsoft.Extensions.DependencyInjection;
 
@@ -25,7 +29,7 @@
                 <td>@data.city</td>
                 <td>@data.state</td>
                 <td>@data.established</td>
-                <td>@data.website</td>
+                <td><a href="@data.website">@data.website</a></td>
                 <td>@data.priceLevel</td>
             </tr>
         }
