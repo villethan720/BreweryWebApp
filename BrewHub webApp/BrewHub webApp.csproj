@@ -7,4 +7,8 @@
     <RootNamespace>BrewHub_webApp</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="newtonsoft.json" Version="9.0.1" />
+  </ItemGroup>
+
 </Project>

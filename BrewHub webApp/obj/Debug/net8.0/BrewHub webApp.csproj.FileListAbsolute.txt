@@ -29,3 +29,6 @@ Z:\Documents\School\CMPS 360\BreweryWebApp\BrewHub webApp\obj\Debug\net8.0\refin
 Z:\Documents\School\CMPS 360\BreweryWebApp\BrewHub webApp\obj\Debug\net8.0\BrewHub webApp.pdb
 Z:\Documents\School\CMPS 360\BreweryWebApp\BrewHub webApp\obj\Debug\net8.0\BrewHub webApp.genruntimeconfig.cache
 Z:\Documents\School\CMPS 360\BreweryWebApp\BrewHub webApp\obj\Debug\net8.0\ref\BrewHub webApp.dll
+z:\Documents\School\CMPS 360\BreweryWebApp\BrewHub webApp\bin\Debug\net8.0\Newtonsoft.Json.dll
+z:\Documents\School\CMPS 360\BreweryWebApp\BrewHub webApp\obj\Debug\net8.0\BrewHub webApp.csproj.AssemblyReference.cache
+z:\Documents\School\CMPS 360\BreweryWebApp\BrewHub webApp\obj\Debug\net8.0\BrewHub webApp.csproj.CopyComplete
