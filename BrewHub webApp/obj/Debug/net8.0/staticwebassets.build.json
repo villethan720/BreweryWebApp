@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "y0Xnhsj2PoPgHqPvqE10vk3krnfWPbl/yKhpkVUDGzs=",
+  "Hash": "PjO4LkYfagK3s90PL2TI1XZgzK/Oqdtlr8LtIh+ULQ4=",
   "Source": "BrewHub webApp",
   "BasePath": "_content/BrewHub webApp",
   "Mode": "Default",
@@ -186,6 +186,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/images/EthanV.jpeg"
+    },
+    {
+      "Identity": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/images/GrandCanyon.jpeg",
+      "SourceId": "BrewHub webApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/",
+      "BasePath": "_content/BrewHub webApp",
+      "RelativePath": "images/GrandCanyon.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/GrandCanyon.jpeg"
     },
     {
       "Identity": "/Users/zkish/Desktop/School App/Untitled/BrewHub webApp/wwwroot/images/JoelF.jpeg",

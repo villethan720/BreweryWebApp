@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BrewHub webApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f87ee2a2be27422d938b26a9c15e90b55f503d6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e323e0a02bc5596b0ddc4c1fdc11ae5ab7d0fdb9")]
 [assembly: System.Reflection.AssemblyProductAttribute("BrewHub webApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BrewHub webApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
