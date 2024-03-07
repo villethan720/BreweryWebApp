@@ -1,250 +1,6 @@
 {
   "Files": [
     {
-      "Id": "Z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BrewHub webApp.bundle.scp.css",
-      "PackagePath": "staticwebassets\\BrewHub webApp.bundle.scp.css"
-    },
-    {
-      "Id": "Z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\css\\site.css",
-      "PackagePath": "staticwebassets\\css\\site.css"
-    },
-    {
-      "Id": "Z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\favicon.ico",
-      "PackagePath": "staticwebassets\\favicon.ico"
-    },
-    {
-      "Id": "Z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\js\\site.js",
-      "PackagePath": "staticwebassets\\js\\site.js"
-    },
-    {
-      "Id": "Z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\LICENSE",
-      "PackagePath": "staticwebassets\\lib\\bootstrap"
-    },
-    {
-      "Id": "Z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
-    },
-    {
-      "Id": "Z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
-    },
-    {
-      "Id": "Z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
-    },
-    {
-      "Id": "Z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
-    },
-    {
-      "Id": "Z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
-    },
-    {
-      "Id": "Z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
-    },
-    {
-      "Id": "Z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
-    },
-    {
-      "Id": "Z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
-    },
-    {
-      "Id": "Z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
-    },
-    {
-      "Id": "Z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
-    },
-    {
-      "Id": "Z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
-    },
-    {
-      "Id": "Z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
-    },
-    {
-      "Id": "Z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
-    },
-    {
-      "Id": "Z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
-    },
-    {
-      "Id": "Z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
-    },
-    {
-      "Id": "Z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
-    },
-    {
-      "Id": "Z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
-    },
-    {
-      "Id": "Z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
-    },
-    {
-      "Id": "Z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
-    },
-    {
-      "Id": "Z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
-    },
-    {
-      "Id": "Z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
-    },
-    {
-      "Id": "Z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
-    },
-    {
-      "Id": "Z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
-    },
-    {
-      "Id": "Z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
-    },
-    {
-      "Id": "Z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
-    },
-    {
-      "Id": "Z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
-    },
-    {
-      "Id": "Z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
-    },
-    {
-      "Id": "Z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
-    },
-    {
-      "Id": "Z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
-    },
-    {
-      "Id": "Z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
-    },
-    {
-      "Id": "Z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
-    },
-    {
-      "Id": "Z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
-    },
-    {
-      "Id": "Z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
-    },
-    {
-      "Id": "Z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
-    },
-    {
-      "Id": "Z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
-    },
-    {
-      "Id": "Z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
-    },
-    {
-      "Id": "Z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
-    },
-    {
-      "Id": "Z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
-    },
-    {
-      "Id": "Z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
-    },
-    {
-      "Id": "Z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
-    },
-    {
-      "Id": "Z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
-    },
-    {
-      "Id": "Z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
-    },
-    {
-      "Id": "Z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
-    },
-    {
-      "Id": "Z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
-    },
-    {
-      "Id": "Z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
-    },
-    {
-      "Id": "Z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
-    },
-    {
-      "Id": "Z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
-    },
-    {
-      "Id": "Z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
-    },
-    {
-      "Id": "Z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
-    },
-    {
-      "Id": "Z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
-    },
-    {
-      "Id": "Z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
-    },
-    {
-      "Id": "Z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
-    },
-    {
-      "Id": "Z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
-      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
-    },
-    {
-      "Id": "Z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
-    },
-    {
-      "Id": "Z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
-    },
-    {
-      "Id": "Z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
-    },
-    {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BrewHub webApp.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
@@ -259,6 +15,286 @@
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BrewHub webApp.props",
       "PackagePath": "buildTransitive\\BrewHub webApp.props"
+    },
+    {
+      "Id": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BrewHub webApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BrewHub webApp.bundle.scp.css"
+    },
+    {
+      "Id": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\images\\AshaM.jpeg",
+      "PackagePath": "staticwebassets\\images\\AshaM.jpeg"
+    },
+    {
+      "Id": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\images\\BrewHub.png",
+      "PackagePath": "staticwebassets\\images\\BrewHub.png"
+    },
+    {
+      "Id": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\images\\CollinM.jpeg",
+      "PackagePath": "staticwebassets\\images\\CollinM.jpeg"
+    },
+    {
+      "Id": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\images\\EricP.jpg",
+      "PackagePath": "staticwebassets\\images\\EricP.jpg"
+    },
+    {
+      "Id": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\images\\EthanV.jpeg",
+      "PackagePath": "staticwebassets\\images\\EthanV.jpeg"
+    },
+    {
+      "Id": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\images\\JoelF.jpeg",
+      "PackagePath": "staticwebassets\\images\\JoelF.jpeg"
+    },
+    {
+      "Id": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\images\\NickS.png",
+      "PackagePath": "staticwebassets\\images\\NickS.png"
+    },
+    {
+      "Id": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\images\\RyanK.jpeg",
+      "PackagePath": "staticwebassets\\images\\RyanK.jpeg"
+    },
+    {
+      "Id": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\images\\ZachK.jpeg",
+      "PackagePath": "staticwebassets\\images\\ZachK.jpeg"
+    },
+    {
+      "Id": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     }
   ],
   "ElementsToRemove": []

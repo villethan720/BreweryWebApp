@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "Z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\BrewHub webApp.csproj": {}
+    "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\BrewHub webApp.csproj": {}
   },
   "projects": {
-    "Z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\BrewHub webApp.csproj": {
+    "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\BrewHub webApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\BrewHub webApp.csproj",
+        "projectUniqueName": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\BrewHub webApp.csproj",
         "projectName": "BrewHub webApp",
-        "projectPath": "Z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\BrewHub webApp.csproj",
+        "projectPath": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\BrewHub webApp.csproj",
         "packagesPath": "C:\\Users\\Eric\\.nuget\\packages\\",
-        "outputPath": "Z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\obj\\",
+        "outputPath": "z:\\Documents\\School\\CMPS 360\\BreweryWebApp\\BrewHub webApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
